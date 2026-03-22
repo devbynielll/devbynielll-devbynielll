@@ -9,72 +9,27 @@
 
 🎓 3rd Year Information Technology Student — STI College Lipa  
 🚀 Software Engineer in Progress | Mobile Developer | Tech Innovator  
-🌍 Focused on building **real-world, impactful systems**
+🌍 Focused on building real-world, impactful systems  
 
 ---
 
 ## 🚀 About Me
 
-I am an Information Technology student focused on developing **practical, scalable, and real-world applications** rather than purely academic projects.
+I am an Information Technology student focused on developing practical, scalable, and real-world applications. My interests include mobile development, system design, and AI-integrated solutions, with a strong emphasis on usability and community impact.
 
-My work centers around **mobile development, system design, and AI-integrated solutions**, with a strong emphasis on **community impact, usability, and real deployment**.
-
-I approach development with structured thinking — prioritizing **clean architecture, efficient logic, and user-centered design**.
+I approach development with structured thinking — prioritizing clean architecture, efficient logic, and user-centered design.
 
 ---
 
 ## 🏆 Achievements & Recognition
 
-🏆 **Philippine Startup Challenge X (PSCX)** – Regional Qualifier (Region IV-A)  
-→ Recognized by DICT Region IV-A for building a startup-level solution with real-world impact  
-
-🥇 **Cyber Defense Exercise Challenge (TRON 2026)** – 1st Place  
-→ Demonstrated strong problem-solving and cybersecurity fundamentals  
-
-🎤 **PROJECT GABAY-AI – Speaker**  
-→ Delivered sessions on AI fundamentals, practical applications, and real-world use  
-
-📜 **Oracle Academy – Java Fundamentals (Course Completion)**  
-→ Strong foundation in Java and core programming principles  
-
-🥇 **CodeFest 2024 (STI College Lipa)** – 1st Place  
-🥇 **CodeFest 2026 (STI College Lipa)** – 1st Place  
-→ Recognized for consistent excellence in coding and problem-solving  
-
-💻 **Developer – DEV-IGN (Philippine Design Festival 2025, Pre-Event)**  
-→ Collaborated in a tech-design environment as a developer  
-
----
-
-## 📱 Featured Projects
-
-### 🔹 Wais – AI Fact Checker
-- AI-powered real-time misinformation detection  
-- Designed for digital literacy and everyday users  
-- Scalable system with real deployment potential  
-- 💡 Subscription-based model  
-
----
-
-### 🔹 Offline-First Barangay System
-- Works without internet (offline-first architecture)  
-- Syncs data when online  
-- Designed for real community and government use  
-
----
-
-### 🔹 Android API Integration Projects
-- Clean architecture approach  
-- Organized multi-class system  
-- Hybrid offline-online system design  
-
----
-
-### 🔹 Data Structures Visualization
-- Singly Linked Lists  
-- Doubly Linked Lists  
-- Circular Linked Lists  
-→ Demonstrates strong core CS foundation  
+🏆 Philippine Startup Challenge X (PSCX) — Regional Qualifier (Region IV-A)  
+🥇 Cyber Defense Exercise Challenge (TRON 2026) — 1st Place  
+🎤 PROJECT GABAY-AI — Speaker  
+📜 Oracle Academy — Java Fundamentals (Course Completion)  
+🥇 CodeFest 2024 — STI College Lipa — 1st Place  
+🥇 CodeFest 2026 — STI College Lipa — 1st Place  
+💻 Developer — DEV-IGN (Philippine Design Festival 2025, Pre-Event)  
 
 ---
 
@@ -108,24 +63,10 @@ I approach development with structured thinking — prioritizing **clean archite
 
 ---
 
-## 🧠 Strengths
-
-- Real-world problem-solving mindset  
-- Structured and scalable system design  
-- Clean and organized coding practices  
-- Strong understanding of logic and flow  
-- Ability to communicate technical concepts clearly  
-
----
-
 ## 🎯 Career Direction
 
-I am working toward becoming a:
-
-- Software Engineer / Mobile Developer  
-- Tech Entrepreneur / Startup Builder  
-- AI-integrated Systems Developer  
-- GovTech / Community Systems Innovator  
+Software Engineer • Mobile Developer • Tech Innovator  
+AI Systems • Startup Development • GovTech  
 
 ---
 
@@ -135,7 +76,6 @@ I am working toward becoming a:
 
 ---
 
-<!-- 🔥 Footer -->
 <p align="center">
   <b>Building systems that matter 🚀</b>
 </p>
